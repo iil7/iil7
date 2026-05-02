@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0FF700&lines=Hello;Welcome+To+My+Profile;Bastian+Alshehri;Love+u+;Have+A+Good+Day+.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?duration=3200&pause=500&color=8600F7&center=true&vCenter=true&width=600&lines=Hello;Welcome+To+My+Profile;Bastian+Alshehri+Love+you+!;Have+A+Good+Day+%3C3+." />
+</p>
